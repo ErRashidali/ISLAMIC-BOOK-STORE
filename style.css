@@ -4,7 +4,7 @@
 }
 header {
     display: flex;
-    background-color: aqua;
+    background-color: whitesmoke;
     min-height: 80px;
     justify-content: space-between;
     align-items: center;
@@ -35,18 +35,18 @@ header {
 
 .search_bar input {
     flex: 1;
-    padding: 8px 15px;
+    padding: 6px 15px;
     border: 1px solid #ddd;
     border-radius: 4px;
     font-size: 14px;
 }
 
 .search_bar button {
-    padding: 8px 15px;
-    background-color: #007bff;
+    padding: 8px 10px;
+    background-color: #919293;
     color: white;
     border: none;
-    border-radius: 4px;
+    border-radius: 5px;
     cursor: pointer;
 }
 
